@@ -1,5 +1,7 @@
 # ArraySplitKTimes
-      - Taking a String[] and dividing it K times.
+
+# What it does:
+      - Takes a String[] and dividing it K times.
 
 ## Ex:
       - String abc = "hiya";
