@@ -1,6 +1,6 @@
 # ArraySplitKTimes
 
-# What it does:
+## What it does:
       - Takes a String[] and dividing it K times.
 
 ## Ex:
